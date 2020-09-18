@@ -1,2 +1,5 @@
 # Add  code here!
-prime?()
+def prime?(num)
+  if
+end 
+end
